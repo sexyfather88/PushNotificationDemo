@@ -4,6 +4,16 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>NotificationService.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>NotificationViewController.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>PushNotificationDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +33,16 @@
 			<true/>
 		</dict>
 		<key>CEA66C4D1FCC565D007E5976</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEA66C6B1FCC59B9007E5976</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CEA66C7C1FCC59E9007E5976</key>
 		<dict>
 			<key>primary</key>
 			<true/>
